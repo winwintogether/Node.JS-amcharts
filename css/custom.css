@@ -1,0 +1,10 @@
+.main_content{
+	margin:0 auto;
+	margin-top: 100px;
+	width:90%;
+	height:600px;
+}
+#chartdiv{
+	width:100%;
+	height:600px;
+}
